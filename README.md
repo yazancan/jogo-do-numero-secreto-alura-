@@ -8,5 +8,5 @@ Projeto desenvolvido com JavaScript para sortear nomes aleatoriamente.
 - JavaScript
 
 ## 💡 Funcionalidades
-- Adicionar nomes
-- Sortear nome aleatório
+- Adicionar números
+- Sortear números aleatórios
