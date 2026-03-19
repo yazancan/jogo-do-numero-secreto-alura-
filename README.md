@@ -10,3 +10,6 @@ Projeto desenvolvido com JavaScript para sortear nomes aleatoriamente.
 ## 💡 Funcionalidades
 - Adicionar números
 - Sortear números aleatórios
+
+## 🔗 Deploy
+https://yazancan.github.io/jogo-do-numero-secreto-alura-/
